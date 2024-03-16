@@ -1,0 +1,14 @@
+C:\Users\Home\Desktop\Programming\sender\bin\Debug\net8.0\sender.exe
+C:\Users\Home\Desktop\Programming\sender\bin\Debug\net8.0\sender.deps.json
+C:\Users\Home\Desktop\Programming\sender\bin\Debug\net8.0\sender.runtimeconfig.json
+C:\Users\Home\Desktop\Programming\sender\bin\Debug\net8.0\sender.dll
+C:\Users\Home\Desktop\Programming\sender\bin\Debug\net8.0\sender.pdb
+C:\Users\Home\Desktop\Programming\sender\obj\Debug\net8.0\sender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Programming\sender\obj\Debug\net8.0\sender.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Programming\sender\obj\Debug\net8.0\sender.AssemblyInfo.cs
+C:\Users\Home\Desktop\Programming\sender\obj\Debug\net8.0\sender.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Programming\sender\obj\Debug\net8.0\sender.dll
+C:\Users\Home\Desktop\Programming\sender\obj\Debug\net8.0\refint\sender.dll
+C:\Users\Home\Desktop\Programming\sender\obj\Debug\net8.0\sender.pdb
+C:\Users\Home\Desktop\Programming\sender\obj\Debug\net8.0\sender.genruntimeconfig.cache
+C:\Users\Home\Desktop\Programming\sender\obj\Debug\net8.0\ref\sender.dll

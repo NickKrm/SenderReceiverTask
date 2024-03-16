@@ -1,0 +1,14 @@
+C:\Users\Home\Desktop\Programming\receiver\obj\Debug\net8.0\Receiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Programming\receiver\obj\Debug\net8.0\Receiver.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Programming\receiver\obj\Debug\net8.0\Receiver.AssemblyInfo.cs
+C:\Users\Home\Desktop\Programming\receiver\obj\Debug\net8.0\Receiver.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Programming\receiver\bin\Debug\net8.0\Receiver.exe
+C:\Users\Home\Desktop\Programming\receiver\bin\Debug\net8.0\Receiver.deps.json
+C:\Users\Home\Desktop\Programming\receiver\bin\Debug\net8.0\Receiver.runtimeconfig.json
+C:\Users\Home\Desktop\Programming\receiver\bin\Debug\net8.0\Receiver.dll
+C:\Users\Home\Desktop\Programming\receiver\bin\Debug\net8.0\Receiver.pdb
+C:\Users\Home\Desktop\Programming\receiver\obj\Debug\net8.0\Receiver.dll
+C:\Users\Home\Desktop\Programming\receiver\obj\Debug\net8.0\refint\Receiver.dll
+C:\Users\Home\Desktop\Programming\receiver\obj\Debug\net8.0\Receiver.pdb
+C:\Users\Home\Desktop\Programming\receiver\obj\Debug\net8.0\Receiver.genruntimeconfig.cache
+C:\Users\Home\Desktop\Programming\receiver\obj\Debug\net8.0\ref\Receiver.dll
